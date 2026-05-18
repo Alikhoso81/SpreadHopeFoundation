@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678876374784",
+    "project_id": "project-spreading-hope",
+    "storage_bucket": "project-spreading-hope.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678876374784:android:6ec02d3986752db6d435e5",
+        "android_client_info": {
+          "package_name": "com.example.project_spreading_hope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DoZR2aiHBymr6KAVvz7FUBZEtB9WJJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
