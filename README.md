@@ -37,6 +37,11 @@ When you open the app, you're greeted with a beautifully designed **Home Screen*
 - A rich **About Our History** section telling the foundation's journey
 
 ---
+## Architecture
+
+- This app follows MVVM (Model-View-ViewModel) pattern:
+
+- UI Layer → ViewModel → Repository → Firebase/Firestore
 
 ## ✨ Features
 
