@@ -1,3 +1,5 @@
+// Dependencies configured: Firebase, Glide, Navigation, Coroutines, ViewBinding
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
