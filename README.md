@@ -178,7 +178,12 @@ SpreadHopeFoundation/
 > *Add your screenshots in a `/screenshots` folder in the repo root.*
 
 ---
+## Firebase Setup
 
+1. Create a Firebase project at https://console.firebase.google.com
+2. Add your Android app with package name
+3. Download google-services.json and place in /app folder
+4. Enable Authentication and Firestore in Firebase console
 ## 🚀 Installation & Setup
 
 ### Prerequisites
