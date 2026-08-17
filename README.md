@@ -165,7 +165,7 @@ SpreadHopeFoundation/
 
 ## 📸 Screenshots
 
-> Screenshots coming soon — the app features a complete, polished UI including home dashboard, donation flow, media gallery, and user profile.
+> Screenshots — the app features a complete, polished UI including home dashboard, donation flow, media gallery, and user profile.
 
 | Splash | Login | Home |
 |--------|-------|------|
@@ -175,7 +175,6 @@ SpreadHopeFoundation/
 |--------|-------|---------|
 | ![Donate](screenshots/donate.png) | ![Media](screenshots/media.png) | ![Profile](screenshots/profile.png) |
 
-> *Add your screenshots in a `/screenshots` folder in the repo root.*
 
 ---
 ## Firebase Setup
